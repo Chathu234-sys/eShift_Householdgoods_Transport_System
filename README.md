@@ -4,48 +4,47 @@ A desktop-based transport management system built with C# WinForms and SQL Serve
 The system helps manage customers, employees, transport units (lorries, containers), job assignments, loads, reporting, and payments efficiently.
 
 ✨ Features
+🔑 User Authentication & Roles
 
-User Authentication & Roles
+Separate logins for Admins, Employees, and Customers
 
-Separate logins for Admins, Employees, and Customers.
+Role-based dashboards for secure access
 
-Role-based dashboards for secure access.
+👥 Customer Management
 
-Customer Management
+Registration, updating, and deleting customer details
 
-Registration, updating, and deleting customer details.
+Viewing history of jobs and payments
 
-Viewing history of jobs and payments.
+📦 Job & Load Management
 
-Job & Load Management
+Create and update transport jobs
 
-Create and update transport jobs.
+Assign loads to transport units (lorries/containers)
 
-Assign loads to transport units (lorries/containers).
+Track job status: Pending, In Progress, Completed, Cancelled
 
-Track job status (Pending, In Progress, Completed, Cancelled).
+🚛 Transport Unit Management
 
-Transport Unit Management
+Manage lorries, drivers, assistants, and containers
 
-Manage lorries, drivers, assistants, and containers.
+Assign units dynamically to loads
 
-Assign units dynamically to loads.
+📧 Email Notifications
 
-Email Notifications
+Customers receive job confirmation and status updates via SMTP/MailKit
 
-Customers receive job confirmation and status updates via SMTP/MailKit.
+📊 Reports & Analytics
 
-Reports & Analytics
+Generate PDF/Excel reports: Customers, Employees, Payments, Lorry Utilization
 
-Generate PDF/Excel reports (Customers, Employees, Payments, Lorry Utilization).
+Export and print with iTextSharp and ClosedXML
 
-Export and print with iTextSharp and ClosedXML.
+🛡️ Error Handling & Logging
 
-Error Handling & Logging
+Try–catch exception handling with user-friendly messages
 
-Try–catch exception handling with user-friendly messages.
-
-Logging of system errors for debugging.
+Logging of system errors for debugging
 
 🛠️ Software Requirements
 Category	Requirement
@@ -56,9 +55,9 @@ Database	SQL Server 2016+
 Libraries	iTextSharp, ClosedXML, MailKit, System.Data.SqlClient
 🗄️ Database Setup
 
-Install SQL Server and SQL Server Management Studio (SSMS).
+Install SQL Server and SQL Server Management Studio (SSMS)
 
-Create a database named:
+Create a database:
 
 CREATE DATABASE eShiftDB;
 
@@ -96,27 +95,27 @@ Clone this repository:
 git clone https://github.com/your-username/eShift_Householdgoods_Transport_System.git
 
 
-Open the project in Visual Studio.
+Open the project in Visual Studio
 
-Restore dependencies and build the solution.
+Restore dependencies and build the solution
 
-Run the project (F5) – the Login Form will appear.
+Run the project (F5) – the Login Form will appear
 
 🔮 Future Improvements
 
-Role-Based Access Control (RBAC) with advanced permissions.
+Advanced Role-Based Access Control (RBAC) with permissions
 
-Real-time notifications using SignalR.
+Real-time notifications using SignalR
 
-Web and Mobile versions with ASP.NET Core MVC / Blazor / MAUI.
+Web and Mobile versions with ASP.NET Core MVC / Blazor / MAUI
 
-Advanced charts and dashboards using LiveCharts.
+Advanced charts and dashboards using LiveCharts
 
-Audit Logging for all operations.
+Audit Logging for all operations
 
-Cloud deployment on Azure/AWS.
+Cloud deployment on Azure/AWS
 
-Integrated Payment Gateway (Stripe/PayPal) for online transactions.
+Integrated Payment Gateway (Stripe/PayPal) for online transactions
 
 👨‍💻 Author
 
