@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# AD\\eShiftCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|d:\\c# ad\\eshiftcompany\\eshiftcompany\\repository\\services\\productmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\services\\productmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\repository\\services\\myhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\services\\myhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\repository\\interface\\iproductmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\interface\\iproductmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\repository\\services\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\services\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\repository\\services\\signuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\services\\signuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\repository\\interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\business\\services\\signupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\business\\services\\signupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\business\\interface\\isignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\business\\interface\\isignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\C# AD\\eShiftCompany\\eshiftcompany\\business\\services\\admindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\business\\services\\admindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyHistoryRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\MyHistoryRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\MyHistoryRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\MyHistoryRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\MyHistoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:58:30.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminDashboard.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:44:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Payments.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Payments.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAhwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:39:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payments.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Payments.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Payments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:39:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeReg.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\EmployeeReg.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\EmployeeReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:04:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeReg.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\EmployeeReg.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\EmployeeReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:03:59.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Reports.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Reports.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:54:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Reports.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:53:25.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:45:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManagementRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:44:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductManagementRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:43:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:42:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:42:17.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHistory.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:38:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminLogin.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminLogin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:06:01.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignupRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\SignupRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\SignupRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Services\\SignupRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\SignupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:04:44.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISignupRepository.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ISignupRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\ISignupRepository.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ISignupRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\ISignupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:04:40.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignupService.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Services\\SignupService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\SignupService.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Services\\SignupService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\SignupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:04:35.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISignupService.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Interface\\ISignupService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Interface\\ISignupService.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Interface\\ISignupService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Interface\\ISignupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:04:30.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\SignUp.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\SignUp.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAIAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:03:48.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\SignUp.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:03:41.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminDashboardService.cs",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Services\\AdminDashboardService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\AdminDashboardService.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Business\\Services\\AdminDashboardService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\AdminDashboardService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:32:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyHistory.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\MyHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:29:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\C# AD\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:27:08.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
